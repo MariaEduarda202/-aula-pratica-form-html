@@ -1,0 +1,14 @@
+{
+  "name": "listaform",
+  "version": "1.0.0",
+  "description": "lista de formularios",
+  "main": "index.html",
+  "scripts": {
+    
+  "keywords": [
+    "Lista",
+    "formularios"
+  ],
+  "author": "Maria Eduarda",
+  "license": "ISC"
+}
